@@ -1,6 +1,6 @@
 {
   "name": "@reskalaware/enigma-essentials",
-  "version": "1.4.3",
+  "version": "2.0.0",
   "description": "Common code for trivia app",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
